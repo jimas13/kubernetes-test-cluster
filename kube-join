@@ -1,0 +1,1 @@
+kubeadm join 192.168.0.2:6443 --token npkot3.g0h39zxnrfjsq4i4 --discovery-token-ca-cert-hash sha256:7ef0365cb6f96d6e6c525b604ee2877daea7195a7cabc0d4e2515ee8413eb924
